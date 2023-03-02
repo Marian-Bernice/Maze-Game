@@ -1,4 +1,4 @@
-# ADVENTURE TIME 
+# MAZE GAME 
 
 ## Introduction 👀
 
